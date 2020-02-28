@@ -22,7 +22,7 @@
 //let distance = prompt('Укажите расстояние в км между двумя городами') 
 //let time = prompt('За сколько часов хотите добраться')
 //let result = distance / time;
-//alert('Евро : ' + result);
+//alert('Скорость : ' + result);
 
 // Задания №6
 //let usd = prompt('Укажите сумму в долларах') 
